@@ -13,7 +13,7 @@ This project leverages machine learning to assess the credit risk of loan applic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jaydugad/Credit_risk_assessment.git
+   git clone https://github.com/uzumstanley/Credit_Risk_Assessment_With_Deployment.git
    cd Credit_Risk_Assessment
    ```
 
