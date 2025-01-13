@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 PyYAML
-joblib
+joblib==1.2.0
 Pillow
 shap
