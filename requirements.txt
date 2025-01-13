@@ -6,3 +6,4 @@ matplotlib
 PyYAML
 joblib
 Pillow
+shap
