@@ -97,6 +97,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [SHAP](https://shap.readthedocs.io/en/latest/)
 - [Scikit-learn](https://scikit-learn.org/)
 
----
-For questions or feedback, please contact [www.jaydugad.com].
+
 
