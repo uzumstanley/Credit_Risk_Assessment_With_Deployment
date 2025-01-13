@@ -5,3 +5,4 @@ numpy
 matplotlib
 PyYAML
 joblib
+Pillow==9.4.0
